@@ -20,4 +20,4 @@ Air Quality Now does not collect any user's data. All data is stored into the us
 <br>
 <br> 
 <br>
-<b>Created by JGeek00</b>
+<b>Created by codingexpert</b>
